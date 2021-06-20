@@ -1,0 +1,6 @@
+[submodule "Micro-XRCE-DDS-Agent"]
+	path = Micro-XRCE-DDS-Agent
+	url = https://github.com/ruimscarvalho98/Micro-XRCE-DDS-Agent.git
+[submodule "crazyflie-link-cpp"]
+	path = crazyflie-link-cpp
+	url = https://github.com/bitcraze/crazyflie-link-cpp.git
