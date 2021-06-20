@@ -1,6 +1,6 @@
 # CRTP_micro-ros-agent (Work in progress!)
 
-Custom transport micro-ROS agent for Bitcraze's Crazyflie 2.0 MAVs
+Custom transport micro-ROS agent for Bitcraze's Crazyflie 2.1 MAVs
 
 Only works with a CF for now but will work (hopefully!) with multiple in the near future
 
