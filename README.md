@@ -45,7 +45,7 @@ And run it from the build folder:
 
 ```
 cd Micro-XRCE-DDS-Agent/build
-./examples/custom_agent/CustomXRCEAgent <uri>
+./examples/SingleCRTPAgent/SingleCRTPAgent  <uri>
 ```
 
 Where the uri is specific to your crazyflie, in my case it is "radio://0/80/2M/E7E7E7E7E7" but this can be changed using the cfclient or in the config.h file of the crazyflie firmware. Please note that this only works with radio, to use USB the client-side uROS custom transport in the firmware must be modified.
@@ -60,7 +60,7 @@ In the first one run the custom agent:
 
 ```
 cd Micro-XRCE-DDS-Agent/build
-./examples/custom_agent/CustomXRCEAgent <uri>
+./examples/SingleCRTPAgent/SingleCRTPAgent  <uri>
 ```
 
 In the second, echo one of the published topics:
